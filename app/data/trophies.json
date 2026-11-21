@@ -3,7 +3,7 @@
  "platform": "PlayStation 5",
  "list": "the official 55 trophies, 2026-11-18",
  "sourcesFile": "sources.json",
- "part": "A — trophies 1-28 (part B appends 29-55)",
+ "part": "complete — all 55 trophies",
  "trophies": [
   {
    "id": 1,
@@ -641,6 +641,630 @@
     { "type": "sources-differ", "title": "Is the Chapter 1 session required for the trophy?", "text": "Version A — required: OutputLag states the balcony meditation counts toward Positive Mental Attitude and disappears at chapter end, and KeenGamer lists it as the missable piece of the 18. Structurally, spots 2-10 yield only 17 meditations without it. Version B — not required: PowerPyx notes the session increments the counter but is not marked as a Meditation Spot and says it is 'currently unclear if it's required'; eGamers reports walkthrough authors unsure it counts, with neither side confirmed. The claim that testers reached 18 without it circulates in launch-week discussion but is UNCONFIRMED in the sources we hold. [A: OutputLag, KeenGamer; B: PowerPyx, eGamers]", "cites": [16, 28, 3, 34] },
     { "type": "our-call", "title": "Our call: take it in Chapter 1 either way", "text": "Do the balcony meditation during Chapter 1 regardless of which version is right. It costs two minutes, raises Focus, and removes the only potentially missable step on the entire list. Then keep a Chapter 1 manual save until the trophy pops — cheap insurance against the unresolved question.", "cites": [3, 14, 16] }
    ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Side",
+   "psnTarget": null,
+   "psnPercent": 0.00,
+   "summary": "Work Bret Vogel's Jason-only hunting strand and hunt the unique animal he asks for.",
+   "steps": [
+    { "text": "Bret Vogel, Jason's old army friend, texts you after the Chapter 2 mission Coffee Break. His hunting business sits in Lummox County near Mount Kalaga.", "cites": [19, 35] },
+    { "text": "The strand is Jason-only — swapping to Lucia does not advance it. It opens with Veteran Hunted (Meet Bret).", "cites": [35, 45, 48] },
+    { "text": "Work through Bret's 15 Target Decks, the hunting objectives marked under Map > Activities > Target Deck.", "cites": [19, 15] },
+    { "text": "Clean head or heart shots keep the carcass pristine, which is what Bret's jobs reward — aim carefully rather than spraying.", "cites": [15] },
+    { "text": "The strand rewards the Killtelligence SM-69 hunting rifle and, at its end, the Fair Game trophy for hunting a unique animal for Bret.", "cites": [19] },
+    { "text": "Which unique animal triggers the trophy is not confirmed — GTA-Zone states the exact animal is still unknown. Follow Bret's markers and the strand will surface it.", "cites": [45, 19] },
+    { "text": "All 15 Target Decks are also required for the 100% checklist, and GTA Vibes lists Bret's strand as counting toward Strangers & Freaks — one strand, three goals.", "cites": [4, 48] }
+   ],
+   "flags": [],
+   "callouts": [
+    { "type": "unconfirmed", "title": "The unique animal is not identified", "text": "UNCONFIRMED: no cited source names the specific animal that unlocks Fair Game. GTA-Zone explicitly says it is not yet confirmed. The strand itself (Veteran Hunted plus 15 Target Decks, Jason-only) is well documented; only the final animal trigger is open.", "cites": [45, 19, 35] }
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "Collectibles",
+   "psnTarget": 3,
+   "psnPercent": 0.00,
+   "summary": "Complete any 3 of the 18 collectible card sets — start with the smallest.",
+   "steps": [
+    { "text": "There are 480 unique collectible cards across 18 sets, each set holding 12 to 36 cards. Completing any 3 full sets unlocks this silver.", "cites": [41, 10, 1, 2] },
+    { "text": "Pick the smallest sets first: Backyard Wrestling (12 cards) and Delights Dancers (18 cards), then any 24-card set such as Vice City Flamingos, Narcos or Manatees.", "cites": [10] },
+    { "text": "Indoors, cards sit on surfaces (counters, tables, shelves) or stuck to walls. Outdoors, check yellow phone boxes on walls and toolboxes on surfaces — those two fixtures hold most exterior cards.", "cites": [10, 41] },
+    { "text": "Only full sets count. Track each set under Progress > Collections > Collectible Cards and watch the per-set completion rather than the raw card total.", "cites": [15] },
+    { "text": "The 18 sets span Vice City, Liberty City and Los Santos sports teams plus dancer, wrestling and comic themes — the set name tells you which cards belong together.", "cites": [10] },
+    { "text": "The 100% checklist wants 15 of the 18 sets, so keep collecting long after the silver pops; the trophy is an early waypoint on that grind.", "cites": [4, 54, 30] },
+    { "text": "Cards are single-pickup collectibles spread across the whole map — sweep them region by region alongside stunts and WAiNK scans instead of making dedicated trips.", "cites": [41, 3] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "Collectibles",
+   "psnTarget": 100,
+   "psnPercent": 0.00,
+   "summary": "Scan 100 WAiNK locations with the phone app — landmarks, curiosities, sculptures and tags.",
+   "steps": [
+    { "text": "Scan 100 WAiNK locations to unlock this silver. The same 100 scans also satisfy the 100% checklist's WAiNK line.", "cites": [40, 4, 1, 2] },
+    { "text": "To scan: raise the phone app near a spot and hold it until the scan registers. The controller vibrates, a sound cue plays and a notification appears when a scannable place is nearby — stop and lift the phone at any of those signals.", "cites": [40] },
+    { "text": "The locations come in sets: 31 Landmarks, 35 Curiosities and 23 Sculptures (89 together), plus No Flusher Tags and a fourth set whose size launch guides leave out. You need at least 11 scans from those last two sets to reach 100.", "cites": [40, 46] },
+    { "text": "AHOL Street Art and 1010 Murals scan exactly the same way but do NOT count toward this trophy. If your total stalls below 100, those are the likely culprit.", "cites": [40] },
+    { "text": "Track progress under Progress > Collections > WAiNK Locations.", "cites": [15] },
+    { "text": "Do not confuse this with vehicle scanning: the same WAiNK app scans cars for Whip It Good, but locations and vehicles are separate counters.", "cites": [44, 40] },
+    { "text": "Launch guides have not pinned down which chapter unlocks location scanning or what reward each scan gives — scan whenever the cues fire and the counter will climb.", "cites": [40] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": 50,
+   "psnPercent": 0.00,
+   "summary": "Complete any 50 of the 80 challenges — most finish themselves while you play.",
+   "steps": [
+    { "text": "GTA 6 has 80 challenges; completing any 50 unlocks this bronze. The 100% checklist later asks for 70.", "cites": [11, 31, 1, 2] },
+    { "text": "They split into eight categories of ten: Combat, Criminal, Exploration, Fitness, Shopping, Sports, Survival and Vehicle.", "cites": [31] },
+    { "text": "All challenges are available from the start of the game — no story gate. An example: Speed Kills (Combat) asks for 3 kills in under 30 seconds.", "cites": [11] },
+    { "text": "Most complete automatically while you chase other trophies and the checklist, so do not grind them deliberately early on.", "cites": [11] },
+    { "text": "Check Progress > Challenges — a Completed checkmark shows in the corner of each finished challenge. Use it to find the gaps.", "cites": [11] },
+    { "text": "Because 100% needs 70 of 80, you can skip the ten hardest challenges entirely; finish the easy ones first and let the count climb.", "cites": [11, 4] },
+    { "text": "The trophy pops at 50, well before the checklist's 70 — expect it to land mid-run without a dedicated session.", "cites": [11, 31] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Crime",
+   "psnTarget": null,
+   "psnPercent": 0.08,
+   "summary": "Reach 4 stars with your partner beside you, then escape the red heat zone together.",
+   "steps": [
+    { "text": "Bring your partner along — partner play unlocks after Coffee Break in Chapter 2. The trophy requires your partner present for the whole escape.", "cites": [3, 30, 1, 2] },
+    { "text": "Build a 4-star Wanted Level together. Bank vault robberies are a reliable way to draw that much heat.", "cites": [30] },
+    { "text": "Escape the red heat zone entirely — not just the flashing search area. The trophy checks that you actually lost the heat.", "cites": [30] },
+    { "text": "Launch guides point to a train tunnel north of Ambrosia as a clean escape route when the heat is on.", "cites": [30] },
+    { "text": "The bronze pops once the wanted level is lost with your partner still with you.", "cites": [30, 1] },
+    { "text": "If it does not pop, the usual cause is a solo escape — verify your partner was actually present during the getaway, not just called beforehand.", "cites": [30] },
+    { "text": "This is repeatable free-roam crime, not a story moment, so you can retry as often as needed.", "cites": [30, 45] }
+   ],
+   "flags": ["at-risk"],
+   "callouts": [
+    { "type": "warning", "title": "Partner must be present", "text": "The risk here is the partner condition: a solo 4-star escape does not count. Call your partner (D-Pad Right) and keep them with you from the first star through the escape. The trophy is not story-missable, but attempts without your partner are wasted.", "cites": [30, 3, 53] }
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Crime",
+   "psnTarget": null,
+   "psnPercent": 0.04,
+   "summary": "With your partner, rob three shops in a row while keeping the wanted level alive.",
+   "steps": [
+    { "text": "With your partner present, rob three shops back-to-back without ever losing the Wanted Level. Escaping the heat between shops resets the chain.", "cites": [30, 14, 1, 2] },
+    { "text": "North Vice City's jewelry stores sit close together — a tight cluster makes the three-shop chain much easier to hold.", "cites": [30] },
+    { "text": "Keep the heat: move straight from one shop to the next while the wanted level is still active. Do not pause to escape.", "cites": [30, 14] },
+    { "text": "The trophy can take about 30 seconds to pop after you leave the third shop — give it a moment before assuming it failed.", "cites": [14] },
+    { "text": "If it still has not popped, GTABase's advice (via eGamers) is to rob a fourth shop while still wanted.", "cites": [30] },
+    { "text": "Your partner must be with you for the robberies; call them before starting the chain.", "cites": [30, 3] },
+    { "text": "Repeatable and not missable — the trap is losing the wanted level mid-chain or robbing solo, not a story window.", "cites": [30, 14] }
+   ],
+   "flags": ["at-risk"],
+   "callouts": [
+    { "type": "warning", "title": "Partner + held wanted level + delayed pop", "text": "Three conditions must hold at once: your partner present, the wanted level never lost across all three shops, and patience for the ~30-second delayed unlock. Plan a tight route (North Vice City jewelry stores) and keep moving. A fourth robbery is the documented fallback.", "cites": [30, 14, 3] }
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Collectibles",
+   "psnTarget": 100,
+   "psnPercent": 0.96,
+   "summary": "Scan 100 different vehicles with the WAiNK app — no driving required.",
+   "steps": [
+    { "text": "Discover 100 different vehicles by scanning them with the WAiNK app. You do not need to drive or steal them — a scan counts.", "cites": [30, 33, 1, 2] },
+    { "text": "Scanning traffic near busy roads is the efficient route: park where cars pass and scan each new model.", "cites": [30] },
+    { "text": "A scan also reveals a vehicle's lock security, alarm, tracker, value and registration cost — useful intel for the theft and registration trophies.", "cites": [44] },
+    { "text": "The 100% checklist wants 200 of the 277 base-model vehicles, so keep scanning well past the bronze; include boats and aircraft.", "cites": [4, 46] },
+    { "text": "This is a different counter from You WAiNKer! (location scans) even though both use the WAiNK app — vehicles and locations track separately.", "cites": [44, 40] },
+    { "text": "Scan as you play the story: new vehicles appear constantly, and starting early means the 200-model checklist line mostly completes itself.", "cites": [3, 4] },
+    { "text": "At 0.96% this is one of the more-earned collectible trophies in the launch sample — passive scanning during normal play gets most players there.", "cites": [2] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Down 5 enemies in one Combat Focus activation — gang members count, cops and civilians appear not to.",
+   "steps": [
+    { "text": "Take down 5 enemies during a single use of Combat Focus, the slow-motion aiming mechanic. The window is one activation, so the kills must come fast.", "cites": [1, 2, 25] },
+    { "text": "Fill your Focus meter before starting. Shooting range attempts (even quits), fishing, pool and basketball all raise Focus permanently.", "cites": [42, 25] },
+    { "text": "Use an assault rifle and aim for gang members — launch guides report cops, soldiers and civilians do not appear to count.", "cites": [30] },
+    { "text": "Gang operations give dense clusters of gang enemies; there are 39 across nine gangs, so pick one with several guards grouped together.", "cites": [29, 36] },
+    { "text": "Enter Combat Focus with a full meter and a clear line on five gang members, then chain the takedowns before the meter empties.", "cites": [30, 25] },
+    { "text": "If Focus runs out before five, retreat, refill via a range attempt or fishing, and retry on a denser group.", "cites": [42, 30] },
+    { "text": "Repeatable and not missable — the only constraint is landing five qualifying takedowns inside one Focus window.", "cites": [30, 1] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "World",
+   "psnTarget": null,
+   "psnPercent": 0.21,
+   "summary": "Steal a gate-docked passenger jet at Vice City International Airport and fly about 1 km out.",
+   "steps": [
+    { "text": "Head to Vice City International Airport (VCIA). The trophy is a hidden bronze for an 'unscheduled departure' — stealing a plane and leaving.", "cites": [14, 45, 1, 2] },
+    { "text": "Steal a large passenger plane docked at a boarding bridge. Gates E3 and E4 are confirmed working; planes parked elsewhere on the airfield do not count.", "cites": [14] },
+    { "text": "Go up to the cockpit, back the plane out toward the runway and take off.", "cites": [14] },
+    { "text": "Fly about 1 km away from the airport. The trophy is delayed — it pops at distance, not at takeoff.", "cites": [14, 45] },
+    { "text": "Game8's condition reads simply as escaping VCIA in a stolen passenger plane, matching the gate-and-distance method.", "cites": [61] },
+    { "text": "This is a free-roam action available after the story; the airport is the same location as the Chapter 4 mission VCIA Takedown.", "cites": [45, 14] },
+    { "text": "If it does not pop, check that you used a boarding-bridge plane (not a remote stand) and actually cleared the airport area by roughly a kilometre.", "cites": [14] }
+   ],
+   "flags": ["at-risk"],
+   "callouts": [
+    { "type": "warning", "title": "A discrete one-time departure", "text": "Each attempt is a single departure event: only a gate-docked passenger jet qualifies, and the unlock fires ~1 km out. A wrong plane or a aborted takeoff means setting up another departure. No cited source reports a story window that expires, so the risk is botching the specific run, not missing a chapter.", "cites": [14, 45] }
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Misc",
+   "psnTarget": null,
+   "psnPercent": 0.20,
+   "summary": "Cryptic Rhino-tank trophy — the reported method is stealing a tank at Mile Zero Air Station and fighting from it.",
+   "steps": [
+    { "text": "The description is cryptic: 'Kinda hot in these Rhinos.' Rhinos are the military tanks, so the trophy involves tank combat.", "cites": [1, 2, 45] },
+    { "text": "Reported method: steal a military tank from Mile Zero Air Station (Mariana County) and take out enemies from inside it.", "cites": [34, 45] },
+    { "text": "Game8's condition matches: steal a tank and shoot enemies with it.", "cites": [61] },
+    { "text": "Mile Zero is a military site, so expect resistance when stealing the tank — bring armor and a plan to reach a vehicle bay.", "cites": [45] },
+    { "text": "There is no PSN progress counter for this hidden bronze; it is a one-off trigger, not a grind.", "cites": [2] },
+    { "text": "The exact trigger is not verified by any cited source — treat the Mile Zero method as reported, not confirmed, and experiment if it does not fire.", "cites": [34, 45] },
+    { "text": "Our read of the wording: any Rhino tank used to destroy enemies should qualify; if the base steal fails, try drawing a tank into a firefight elsewhere.", "cites": [45, 61] }
+   ],
+   "flags": ["unconfirmed"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Reported method, unverified trigger", "text": "UNCONFIRMED: the cryptic description has a reported method (steal a Rhino at Mile Zero Air Station, shoot enemies from it) given by eGamers, GTA-Zone and Game8, but no cited source has verified the exact unlock trigger. We present it as reported. The trophy is hidden with no counter, so confirmation awaits a verified playthrough.", "cites": [34, 45, 61] }
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Crime",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Use the Snap Gun to enter a jewelry store's back room and empty the safe unseen.",
+   "steps": [
+    { "text": "Rob a jewelry store without being detected — no alarm, no witness spotting you during the job.", "cites": [1, 2, 30] },
+    { "text": "Unlock Yasmani's Jewelry Jobs in Chapter 3 (after the story's Vice City move); the strand rewards the Snap Gun, the tool for quiet entries.", "cites": [19] },
+    { "text": "Use the Snap Gun on a jewelry store's back door to get inside without a forced, noisy entry.", "cites": [30] },
+    { "text": "Find the safe code and clear out the safe. The detection condition applies to the whole robbery, so stay out of sight while you work.", "cites": [30] },
+    { "text": "The Snap Gun comes from Yasmani's strand, which itself does not count toward Strangers & Freaks — it is a tool reward, not a stranger strand.", "cites": [19] },
+    { "text": "Once you have the Snap Gun, any jewelry store works; the trophy is repeatable free-roam crime, not a one-time story event.", "cites": [30, 19] },
+    { "text": "If you are spotted, leave and retry on another store — detection resets the attempt but does not lock the trophy.", "cites": [30, 1] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "Crime",
+   "psnTarget": 5,
+   "psnPercent": 0.01,
+   "summary": "Rob and escape five of the eight large bank vaults — expect 4 stars each time.",
+   "steps": [
+    { "text": "Rob 5 bank vaults and escape. Any 5 of the 8 large vaults count for this silver.", "cites": [1, 2, 33, 45] },
+    { "text": "Vault robberies unlock through the optional Chapter 4 mission That's Where The Money Is…", "cites": [30] },
+    { "text": "The method: follow a security van into a bank while its vault is open, then hit the vault.", "cites": [30] },
+    { "text": "Expect a 4-star response. Have a fast bike ready for the escape — the getaway is the hard part, not the vault itself.", "cites": [30] },
+    { "text": "The robbery only counts once you escape the heat; plan the exit before you commit.", "cites": [45, 30] },
+    { "text": "The 100% checklist wants all 8 vaults, so the silver at 5 is a waypoint — keep going to close the checklist line.", "cites": [4, 15] },
+    { "text": "Vault heat also feeds Hot Together (lose 4 stars with your partner) — bring your partner and you can work both trophies in one run.", "cites": [30, 33] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Crime",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Rob an armored truck and escape the heat — the trophy pops only once you're clear.",
+   "steps": [
+    { "text": "Rob an armored truck and escape. This is the mobile-target counterpart to the bank-vault robberies.", "cites": [1, 2, 45] },
+    { "text": "The trophy pops only once you have left the red heat zone — not at the moment of the robbery. OutputLag notes this delayed unlock explicitly.", "cites": [14] },
+    { "text": "Plan the escape before hitting the truck: expect a wanted response and have a fast exit route, the same discipline as vault jobs.", "cites": [30, 14] },
+    { "text": "Armored trucks are distinct from bank vaults; Maximum Withdrawal tracks vaults, this trophy tracks the truck robbery.", "cites": [45, 33] },
+    { "text": "If it does not pop immediately, keep driving until the heat zone fully clears — the delay is normal.", "cites": [14] },
+    { "text": "Repeatable free-roam crime; trucks can be hit again, so a failed escape is not a lockout.", "cites": [45, 14] },
+    { "text": "The specific technique for opening the truck is not detailed in our cited sources — the confirmed requirement is simply rob-and-escape, with the unlock gated on losing the heat.", "cites": [45, 14] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "World",
+   "psnTarget": 52,
+   "psnPercent": 0.03,
+   "summary": "Clear the fog from the entire Leonida map — flying is the fastest sweep.",
+   "steps": [
+    { "text": "Explore all of Leonida by clearing the fog from the whole map. The PSN target tracks 52 areas.", "cites": [1, 2, 30] },
+    { "text": "Flying is the quickest method: sweep the dark (fogged) patches by plane rather than driving every road.", "cites": [30, 46] },
+    { "text": "Cover water and remote counties as well as the road network — the fog clears by area, not by distance driven.", "cites": [46, 61] },
+    { "text": "The map fog itself is the tracker; there is no separate collectible list for exploration.", "cites": [30, 61] },
+    { "text": "Combine the sweep with stunt jumps, drone sites and WAiNK scans so each region visit closes several goals at once.", "cites": [3, 9] },
+    { "text": "Nothing here is missable; post-story free roam with aircraft access is the ideal time to finish the map.", "cites": [3, 45] },
+    { "text": "Game8's condition reads as clearing all the map fog, confirming the exploration is fog-based rather than a checklist of named locations.", "cites": [61] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Crime",
+   "psnTarget": 9,
+   "psnPercent": 0.00,
+   "summary": "Rob one illegal operation from each of the nine gangs — 9 of the 39 total.",
+   "steps": [
+    { "text": "Rob one Illegal Operation belonging to each of the 9 gangs. There are 39 operations in total, but the trophy only needs one per gang.", "cites": [29, 36, 1, 2] },
+    { "text": "The nine gangs: Kingfishers, La Polilla Negra, Kolts & Associates, Final Chapter, San4San, PTT Youngin$, M7, The Guardia Brothers and Other Criminals.", "cites": [29] },
+    { "text": "An operation only counts once you collect all of its key valuables — empty the safe and pick up each collectible before leaving.", "cites": [29] },
+    { "text": "Route by region: Grassrivers (Kingfishers) → Watson Bay (La Polilla Negra) → Port Gellhorn (Kolts) → Ambrosia (Final Chapter) → Vice City (San4San in La Perle, PTT Youngin$ in Southside) → the remaining gangs.", "cites": [29] },
+    { "text": "Check Progress > Gangs to see which gangs still show zero completed, then hit one operation for each.", "cites": [29] },
+    { "text": "Sell the narcotics to a fence after each robbery — Tyrone in La Perle buys San4San product, feeding the checklist's fencing lines.", "cites": [29, 4] },
+    { "text": "The 100% checklist requires all 39 operations, so Pest Control is an early milestone on that grind, not the end of it.", "cites": [4, 29] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "World",
+   "psnTarget": null,
+   "psnPercent": 0.13,
+   "summary": "Have a cocktail with a view on Ocean Beach — the exact trigger is still unconfirmed.",
+   "steps": [
+    { "text": "The official condition: enjoy a cocktail with a view on Ocean Beach. It is a hidden bronze with no PSN progress counter.", "cites": [1, 2] },
+    { "text": "Ocean Beach is a Vice City beachfront area; the trophy is a location-and-action moment rather than a grind.", "cites": [45] },
+    { "text": "Game8's condition reads as drinking a cocktail while enjoying the view at Ocean Beach, matching the official wording.", "cites": [61] },
+    { "text": "Find a bar serving cocktails along Ocean Beach, buy one, and drink it with the view in sight — that is the whole shape of the task.", "cites": [45, 61] },
+    { "text": "The exact trigger (which bar, which drink, where to stand) is not confirmed by any cited source; GTA-Zone lists this trophy among the unverified.", "cites": [45] },
+    { "text": "Our read: try the rooftop and beachfront bars on Ocean Beach and drink while standing with the view — a hypothesis from the wording, not a confirmed method.", "cites": [1, 45] },
+    { "text": "Keep a manual save so you can experiment with bars and drinks without risking progress; we will update this entry when a source verifies the trigger.", "cites": [3, 45] }
+   ],
+   "flags": [],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Exact trigger not confirmed", "text": "UNCONFIRMED: no cited source confirms the precise bar, drink or position that unlocks this trophy. GTA-Zone explicitly lists it among the five unverified entries. The guide above is built from the official wording and Game8's matching condition only; treat the specific approach as a hypothesis.", "cites": [45, 61, 1] }
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Crime",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Steal a showroom car and drive it out through the glass — the reported 'classic style' exit.",
+   "steps": [
+    { "text": "The official condition: smash your way out of a vehicle showroom in classic style. Hidden bronze, no PSN counter.", "cites": [1, 2] },
+    { "text": "The wording points to stealing a display car and driving it out through the showroom window — GTA-Zone's read of the description, though unverified.", "cites": [45] },
+    { "text": "Game8's condition matches: smash out of a car showroom to escape.", "cites": [61] },
+    { "text": "The Key Cloner, rewarded by Randy's Wish List strand, is the tool for getting into high-end cars — useful for a showroom display vehicle.", "cites": [19] },
+    { "text": "The exact showroom, car and trigger are not confirmed by any cited source; GTA-Zone lists this among the unverified trophies.", "cites": [45] },
+    { "text": "Our suggestion: pick a display car, aim for the glass frontage and drive straight out — the 'classic style' phrasing implies the window exit. Set up a clear escape route before committing.", "cites": [45, 61] },
+    { "text": "Keep a manual save before attempting it; treat each showroom smash as a discrete event you can retry.", "cites": [3, 45] }
+   ],
+   "flags": ["at-risk"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Showroom exit method is reported, not verified", "text": "UNCONFIRMED: GTA-Zone gives the window-exit read of the description but flags it unconfirmed, and no cited source verifies the specific showroom or car. The Key Cloner link is our inference from the tool's documented use on high-end cars.", "cites": [45, 61, 19] },
+    { "type": "warning", "title": "A one-time showroom event per attempt", "text": "Treat the smash as a discrete one-time event: once you commit a display car through the glass, the attempt is spent. No cited source reports a story window that expires, so the risk is a botched run rather than a missed chapter — save first and retry if needed.", "cites": [45, 3] }
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Activities",
+   "psnTarget": null,
+   "psnPercent": 0.18,
+   "summary": "Rob the Kingpin Bowling gang operation in Port Gellhorn — loot all three valuables and escape.",
+   "steps": [
+    { "text": "The 'bowling alley' is the Kingpin Bowling gang operation in Port Gellhorn — this is a robbery, not a playable game. It opens after Coffee Break in Chapter 2 as the mission Hit Kingpin Bowling.", "cites": [25, 45, 43, 53] },
+    { "text": "Prepare: call your partner (D-Pad Right), refill body armor at Ammu-Nation and buy sticky bombs there — you need them for the safe. Bringing Zombix heals is also advised.", "cites": [53] },
+    { "text": "Shoot your way into the bowling alley (Kolts gang members) and loot all three key valuables: the Luxury Watch in the south-east room, the Gutterball Moreland 850 shotgun on the north-east pool table, and the safe in the north-east office.", "cites": [53, 43] },
+    { "text": "Blow the safe open with a sticky bomb — it is the third valuable and the trophy requires all three.", "cites": [53, 43] },
+    { "text": "Flee the compound and escape the two-star wanted level. The trophy unlocks shortly after you get away, not at the final pickup.", "cites": [53, 43] },
+    { "text": "If it does not appear right away, keep driving — the delayed pop is documented.", "cites": [43] },
+    { "text": "Not missable: if you miss a valuable, the bowling alley respawns some weeks later in in-game time (during Chapter 3), so you can return and grab what you missed.", "cites": [53] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Misc",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Cryptic partnership trophy — reported to need maximum Strength for both Jason and Lucia.",
+   "steps": [
+    { "text": "The description is cryptic: 'A partnership with mass appeal.' It is a hidden bronze with no PSN counter.", "cites": [1, 2] },
+    { "text": "Reported method: raise the Strength stat to maximum for both Jason and Lucia. Game8's condition reads exactly as maxing both characters' strength.", "cites": [45, 61] },
+    { "text": "Train at gyms: Jason's deck gym at home (from Chapter 1) and public gyms that require a membership. Weights build Strength; cardio is a separate stat.", "cites": [25] },
+    { "text": "Working out together trains both characters — the 'partnership' angle in the description.", "cites": [45] },
+    { "text": "The exact trigger is not verified by any cited source, including whether both must be maxed simultaneously; treat the method as reported.", "cites": [45, 61] },
+    { "text": "Because it is a partnership condition, keep both characters' Strength topped up together rather than maxing one early and neglecting the other.", "cites": [45] },
+    { "text": "Strength training is repeatable and not story-gated, so the trophy is grindable in free roam once you know the trigger.", "cites": [25, 45] }
+   ],
+   "flags": ["at-risk", "unconfirmed"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Max-Strength method is reported, not verified", "text": "UNCONFIRMED: GTA-Zone and Game8 report maxing Strength for both characters, but no cited source has verified the exact trigger or the simultaneity requirement. The cryptic description gives no counter, so confirmation awaits a verified playthrough.", "cites": [45, 61] },
+    { "type": "warning", "title": "Partnership condition — both characters", "text": "The at-risk angle is the partnership requirement: maxing only one character is reported not to be enough. Train Jason and Lucia together and keep both at maximum; a solo strength grind may not fire the trophy.", "cites": [45, 25] }
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Misc",
+   "psnTarget": 500,
+   "psnPercent": 0.01,
+   "summary": "Perform 500 actions that shift your Criminal Profile — but avoid the permanent Irredeemable tier.",
+   "steps": [
+    { "text": "Perform 500 actions that change your Criminal Profile. The PSN counter tracks to 500; Game8's condition matches the 500-action count.", "cites": [45, 61, 2, 1] },
+    { "text": "The Criminal Profile is GTA 6's honor system, fed by the choices you make in story and free roam.", "cites": [18] },
+    { "text": "Choices accumulate naturally through a full playthrough — you rarely need to grind them deliberately.", "cites": [45, 18] },
+    { "text": "Watch the trophy's progress counter to see how close you are; it increments as profile-affecting actions occur.", "cites": [2] },
+    { "text": "Warning: the Irredeemable profile tier is permanent. Do not push toward it on your trophy save — GTA-Zone flags it as irreversible.", "cites": [45] },
+    { "text": "Exactly which actions increment the counter is not enumerated by any cited source; the count is confirmed, the action list is not.", "cites": [45, 61] },
+    { "text": "Keep a manual save before any deliberate choice-grinding so a permanent profile shift cannot ruin the run.", "cites": [45, 3] }
+   ],
+   "flags": ["at-risk", "unconfirmed"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "The 500 count is confirmed; the action list is not", "text": "UNCONFIRMED: the 500-action target is documented (GTA-Zone, Game8, PSN counter), but no cited source enumerates precisely which actions count toward it. The method is 'make profile-affecting choices', not a verified checklist of actions.", "cites": [45, 61, 2] },
+    { "type": "warning", "title": "Irredeemable is permanent", "text": "The at-risk angle is irreversibility: pushing your Criminal Profile to Irredeemable is permanent. Keep a manual save and avoid deliberate evil-grinding on your trophy save; the 500 count comes naturally without it.", "cites": [45, 3] }
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Misc",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Cryptic hidden trophy — no cited source confirms the trigger yet.",
+   "steps": [
+    { "text": "The description is cryptic: 'Second time's the charm.' It is a hidden bronze with no PSN progress counter.", "cites": [1, 2] },
+    { "text": "No cited source confirms the method. GTA-Zone lists it among the unverified trophies and Game8 marks it as under investigation.", "cites": [45, 61] },
+    { "text": "The wording suggests succeeding at something on a second attempt after a first failure.", "cites": [1] },
+    { "text": "Our hypothesis (not a confirmed method): fail an activity — a race, a range course, a robbery — then complete it on the retry. The 'second time' phrasing points at a retry trigger.", "cites": [1, 45] },
+    { "text": "Because nothing is confirmed, experiment broadly rather than grinding one activity; the trigger may be a specific retry rather than any retry.", "cites": [45] },
+    { "text": "Keep a manual save so experimentation cannot cost you progress.", "cites": [3] },
+    { "text": "We will update this entry when a launch guide verifies the trigger; for now it remains honestly unconfirmed.", "cites": [45, 61] }
+   ],
+   "flags": ["unconfirmed"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Method not confirmed by any cited source", "text": "UNCONFIRMED: no cited source confirms how to unlock Bad Luck, I Guess. GTA-Zone lists it as unverified and Game8 as under investigation. The retry hypothesis above is our reading of the official wording only — it is not a documented method.", "cites": [45, 61, 1] }
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Misc",
+   "psnTarget": null,
+   "psnPercent": 0.12,
+   "summary": "Cryptic hidden trophy implying a strange encounter — trigger unconfirmed.",
+   "steps": [
+    { "text": "The description is cryptic: 'What the hell just happened?' Hidden bronze, no PSN counter.", "cites": [1, 2] },
+    { "text": "No cited source confirms the trigger. GTA-Zone lists it among the unverified and Game8 marks it under investigation.", "cites": [45, 61] },
+    { "text": "The wording implies witnessing something strange or unexplained — an encounter rather than a grind.", "cites": [1] },
+    { "text": "Community discussion points to an easter-egg encounter, but we hold no cited source confirming a location, time or condition, so we treat that as rumor rather than guidance.", "cites": [45, 61] },
+    { "text": "Our hypothesis (not confirmed): explore remote or unusual locations, especially at night, and watch for unexpected events. This is a reading of the wording, not a documented method.", "cites": [1, 45] },
+    { "text": "Keep manual saves while experimenting so a strange encounter cannot be lost to a bad outcome.", "cites": [3] },
+    { "text": "At 0.12% it is already unlocking for some players, so a trigger exists in the wild — we will update when a source verifies it.", "cites": [2, 45] }
+   ],
+   "flags": ["unconfirmed"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Method not confirmed by any cited source", "text": "UNCONFIRMED: no cited source confirms the unlock trigger. GTA-Zone lists it as unverified and Game8 as under investigation. The easter-egg reading is community rumor we cannot cite; the guide above is built from the official wording only.", "cites": [45, 61, 1] }
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Activities",
+   "psnTarget": null,
+   "psnPercent": 0.04,
+   "summary": "Knock someone down with a melee attack from a moving vehicle — exact trigger unconfirmed.",
+   "steps": [
+    { "text": "Perform a melee drive-by: knock someone down with a melee attack delivered from a moving vehicle. 'Bowl 'em over' implies a knockdown, not necessarily a kill.", "cites": [1, 2, 61] },
+    { "text": "Game8's condition reads as knocking an opponent down with a melee attack while driving, matching the official wording.", "cites": [61] },
+    { "text": "The exact trigger — which vehicle, which melee move, what speed — is not verified by any cited source; GTA-Zone lists it among the unconfirmed.", "cites": [45] },
+    { "text": "Our suggestion (a hypothesis from the wording): try a motorcycle pass with a melee kick at a pedestrian on a clear straight road. This is not a confirmed method.", "cites": [1, 61] },
+    { "text": "Treat each attempt as a discrete one-off play: set up a straight run, a target and a clean escape, then commit.", "cites": [45] },
+    { "text": "Hidden bronze with no counter; repeat attempts until it pops — nothing reports a story window that expires.", "cites": [2, 45] },
+    { "text": "Keep a manual save before experimenting so a failed or chaotic attempt cannot cost progress.", "cites": [3] }
+   ],
+   "flags": ["at-risk"],
+   "callouts": [
+    { "type": "unconfirmed", "title": "Melee drive-by trigger is unverified", "text": "UNCONFIRMED: GTA-Zone lists Ten Pin among the unconfirmed trophies. The knockdown-from-a-moving-vehicle shape is documented by the description and Game8, but the precise vehicle/melee/speed trigger is not verified. The motorcycle-kick idea is our hypothesis only.", "cites": [45, 61, 1] },
+    { "type": "warning", "title": "A specific one-off play", "text": "The at-risk angle is that each attempt is a specific one-off play rather than a grind: a sloppy pass may not register. Set up a controlled straight run with a clear target, and save first so you can retry cleanly.", "cites": [45, 3] }
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Money",
+   "psnTarget": 250000,
+   "psnPercent": 0.01,
+   "summary": "Launder a cumulative $250,000 of Marked Bills through fences — Yasmani reportedly pays best.",
+   "steps": [
+    { "text": "Earn $250,000 by laundering Marked Bills through your contacts. It is a cumulative total, not a single haul.", "cites": [1, 2, 46, 30] },
+    { "text": "Marked bills come from bank and payday-loan robberies; Yasmani's Chapter 3 robbery jobs open those activities.", "cites": [19, 4] },
+    { "text": "Sell the marked bills to fences. Yasmani is reported to pay the best rate, so route laundering through him where possible.", "cites": [46, 30] },
+    { "text": "The total grows naturally during the 100% checklist's robbery and fencing lines — you rarely need a dedicated laundering grind.", "cites": [30, 4] },
+    { "text": "Track the trophy's PSN counter (target 250000) to see your progress.", "cites": [2] },
+    { "text": "The checklist's marked-bills line is also $250,000 in PowerPyx and Press Start, so trophy and checklist close together.", "cites": [4, 59] },
+    { "text": "Note a source disagreement on the checklist line: Eurogamer lists $100,000 marked bills while PowerPyx/Press Start list $250,000. The trophy itself asks $250,000 per its official description regardless.", "cites": [60, 4, 59, 1] }
+   ],
+   "flags": [],
+   "callouts": [
+    { "type": "sources-differ", "title": "Checklist marked-bills line: $100k vs $250k", "text": "Eurogamer's 100% table lists Marked Bills Fenced at $100,000; PowerPyx and Press Start list $250,000. This affects the checklist line, not the trophy — Dime on the Dollar's official description asks for $250,000, so aim for $250k to satisfy both the trophy and the stricter checklist reading.", "cites": [60, 4, 59, 1] }
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Money",
+   "psnTarget": 100000,
+   "psnPercent": 0.02,
+   "summary": "Spend a cumulative $100,000 across all shops — big-ticket purchases move it fastest.",
+   "steps": [
+    { "text": "Spend $100,000 across all shops. It is a cumulative total across every shop type, not a per-shop target.", "cites": [1, 2, 46] },
+    { "text": "Prioritize expensive purchases — weapons, vehicle upgrades and cosmetics — to reach the total faster than small buys.", "cites": [46] },
+    { "text": "Fund the spending with Randy's Wish List payouts, which often run to tens of thousands per car.", "cites": [19] },
+    { "text": "Track the trophy's PSN counter (target 100000).", "cites": [2] },
+    { "text": "The wording says 'across all shops' and no cited source reports an excluded shop type, so spread spend naturally as you play.", "cites": [1, 46] },
+    { "text": "Shopping is also a challenge category, so deliberate spending can double toward the Fitness/Shopping challenges and One Last Thing.", "cites": [31] },
+    { "text": "Not missable; a full completion run spends well over $100,000 naturally, so this usually pops without a dedicated session.", "cites": [46, 3] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Money",
+   "psnTarget": 8,
+   "psnPercent": 0.01,
+   "summary": "Buy all 8 purchasable garages (~$160,000) — the 4 story garages don't count.",
+   "steps": [
+    { "text": "Purchase all 8 purchasable garage properties. The PSN target is 8.", "cites": [1, 2, 46] },
+    { "text": "Browse and buy them through the Vice City Real Estate phone app, which lists the garages for sale.", "cites": [30, 44] },
+    { "text": "The total cost is around $160,000 for all eight.", "cites": [46, 30] },
+    { "text": "The 4 story garages do NOT count — only the 8 purchasable ones. Do not assume story progress closes this trophy.", "cites": [46, 30] },
+    { "text": "Fund the purchases with Randy's Wish List and heist payouts; a full Wish List run comfortably covers $160,000.", "cites": [19] },
+    { "text": "Garages also provide the free space On the Spot needs before you can register vehicles — buy them before that trophy.", "cites": [46] },
+    { "text": "Track the PSN counter (8); the trophy pops on the eighth purchase.", "cites": [2] }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Collectibles",
+   "psnTarget": 10,
+   "psnPercent": 0.01,
+   "summary": "Register 10 vehicles in the Scooter Bros app — you need free garage space first.",
+   "steps": [
+    { "text": "Register 10 vehicles to the Scooter Bros app. The PSN target is 10.", "cites": [1, 2, 46] },
+    { "text": "The app comes from Moses's strand in Chapter 2 (his garage, after the Moses story mission). Moses's strand does not count toward Strangers & Freaks, but the app is its lasting reward.", "cites": [19, 46] },
+    { "text": "Scooter Bros is a delivery service: it drops off your personal vehicle for a small fee, along with any weapons kept in the trunk.", "cites": [44] },
+    { "text": "You need free garage space before registering — buy garages first (see Little Boxes) or registrations will not stick.", "cites": [46] },
+    { "text": "Register 10 different vehicles through the app; scanning a car with WAiNK first shows its registration cost.", "cites": [46, 44] },
+    { "text": "Track the PSN counter (10); the trophy pops on the tenth registration.", "cites": [2] },
+    { "text": "Pair this with Whip It Good: scanning traffic to discover vehicles also surfaces candidates worth registering.", "cites": [30, 44] }
+   ],
+   "flags": [],
+   "callouts": []
   }
  ]
 }
